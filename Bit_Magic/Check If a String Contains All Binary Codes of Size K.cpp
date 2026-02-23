@@ -1,6 +1,6 @@
 /*   Scroll below to see JAVA code also  */
 /*
-    MY YOUTUBE VIDEO ON THIS Qn : 
+    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=-ShPKo-FXbw
     Company Tags                : GOOGLE
     Leetcode Link               : https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 */
