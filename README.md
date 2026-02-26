@@ -1,56 +1,72 @@
-# Repository Name - Interview_DS_Algo
-# My YouTube Channel Name - codestorywithMIK <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icons8-youtube.gif"/>
+# 🚀 Interview_DS_Algo – DSA Preparation Repository  
 
-<img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/codestorywithmik.png" align="right" /> 
-🦸🏻‍♂️On a mission to make a Super Repository for Interview Prep for everyone. :checkered_flag: One stop Solution.  
-<ul>
- <li> Help me by joining my Youtube Channel for this Repository as well + System Design - <a href="https://www.youtube.com/channel/UCaw58edcO3ZqMw76Bvs0kGQ">Youtube Channel codestorywithMIK</a> (**Subscribers** : 90K+ :hearts:) <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icons8-youtube.gif"/>  
- <li>Official Facebook Page - <a href="https://www.facebook.com/profile.php?id=100090524295846">codestorywithMIK</a></li>
- <li>This repo contains solutions to questions asked in various coding interviews topic wise.</li>
- <li>Every topic will have sub-topics as well to categorize different types/techniques.</li>
- <li>At the top of the solutions, you will find the link to the question and also list of the <strong><em>Companies</em></strong> who have asked the question in interviews.</li>
- <li>So, Look for <strong><em>COMPANY TAGS</em></strong> above every solution. :dizzy_face:</li>
- <li>:tada:LATEST UPDATE:tada: : <strong><em>Frequency</em></strong> also added from now onwards. :tada:</li>
- <li>:tada:LATEST UPDATE:tada: : <strong><em>Video Explanation in HINGLISH </em></strong> by me also added from now onwards. :tada:</li>
- <li> Why I am doing this ? Because knowledge should be free. You don't need to pay for courses. Learn free, share free. PEACE :heartbeat:</li>
- <li> You can join this group on LinkedIn - <a href="https://www.linkedin.com/groups/12559380/">LinkedIn Page : codestorywithMIK</a></li>
-</ul>
-Latest Update⏰  -  
-<em>It helped me to crack interviews of <strong>"Microsoft", "Tower Research" and "Tokopedia"</strong>. I hope to add more to this list later 🙂</em>
+👩🏻‍💻 Maintained by: **Keerti J**  
 
-![](https://komarev.com/ghpvc/?username=MAZHARMIK)
+Welcome to my structured Data Structures & Algorithms preparation repository.  
+This repository contains categorized solutions to coding interview problems that I am solving as part of my placement preparation journey.
 
-<!-- Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{MAZHARMIK}/count.svg) -->
- 
-<h3>Contents : :pencil:</h3>
-<ul>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Tree">Tree 🌳</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Arrays"> Arrays :slot_machine:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Mathematical">Mathematical :straight_ruler:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Heap">Heap :warning:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Linked%20List">Linked List :link:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/DP">DP :calendar:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Graph">Graph :earth_asia:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Trie">Trie 🌳</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Backtracking">Backtracking :end:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Stack">Stack :books:</a></li>
- <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Queue">Queue :train::train:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Bit_Magic">Bit_Magic :keycap_ten:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Greedy">Greedy :shipit:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/HashMap">Hash Map :key:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/HashSet">Hash Set :key:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Recursion">Recursion :cyclone:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Sliding%20Window">Sliding Window :bus:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Design">Design :scissors::triangular_ruler:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/strings">Strings :bookmark_tabs:</a></li>
-  <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Segment%20Tree">Segment Tree 🌳</a></li>
- <li><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Line%20Sweep%20Technique">Line Sweep Technique 📈</a></li>
-</ul>
+---
 
+## 🎯 Purpose
 
+- Organize DSA problems topic-wise  
+- Strengthen problem-solving & algorithmic thinking  
+- Track my interview preparation progress  
+- Maintain clean, well-structured solutions  
 
-# Contributors
+---
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
- [<img src="https://avatars0.githubusercontent.com/u/17107752?s=400&v=4" width="100px;"/>](https://github.com/MAZHARMIK)
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+## 📚 Topics Covered
+
+- 🌳 Tree  
+- 📊 Arrays  
+- ➗ Mathematical  
+- 🧠 Heap  
+- 🔗 Linked List  
+- 📅 Dynamic Programming  
+- 🌍 Graph  
+- 🌳 Trie  
+- 🔄 Backtracking  
+- 📚 Stack  
+- 🚆 Queue  
+- 🔢 Bit Manipulation  
+- 🚀 Greedy  
+- 🔑 Hash Map  
+- 🔐 Hash Set  
+- 🔁 Recursion  
+- 🪟 Sliding Window  
+- 🎨 Design  
+- 🔤 Strings  
+- 🌳 Segment Tree  
+- 📈 Line Sweep Technique  
+
+---
+
+## 🏆 About Me
+
+- 🎓 B.E CSE (AI & ML) – 8.85 CGPA  
+- 💻 400+ Problems Solved on LeetCode  
+- 🥇 Hackathon Finalist  
+- 🤖 Passionate about AI/ML & Scalable Systems  
+
+---
+
+## 📌 Goals
+
+- Improve problem-solving speed  
+- Master core DSA patterns  
+- Prepare for product-based companies  
+- Write optimized & clean code  
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/JKeerti11  
+- LinkedIn: https://www.linkedin.com/in/keerti-j  
+- LeetCode: https://leetcode.com/u/keertij/  
+- GeeksforGeeks: https://www.geeksforgeeks.org/user/jkeers0qt/profile  
+
+---
+
+⭐ If you find this repository useful, feel free to explore and learn along!
